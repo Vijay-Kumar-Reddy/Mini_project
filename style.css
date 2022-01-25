@@ -1,7 +1,9 @@
 h1{
-    font-style: italic;
+    font-style:bold;
     text-align: center;
     color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
 }
 td{
     text-align: center;
