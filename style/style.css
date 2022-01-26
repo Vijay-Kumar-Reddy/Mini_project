@@ -18,7 +18,7 @@ th,td{
     background-color: aqua;
     border: 1px solid aqua;
     border-radius: 8px;
-    padding: 5%
+    padding: 5%;
 }
 
 tr:hover,td:hover{
@@ -28,4 +28,5 @@ tr:hover,td:hover{
 a:link{
     text-decoration: none;
 }
+
 
