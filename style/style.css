@@ -1,9 +1,10 @@
 h1{
     font-style:bold;
     text-align: center;
-    color: blue;
+    color: rgb(244, 250, 255);
     font-family: 'Courier New', Courier, monospace;
     text-decoration: underline;
+    background-color: rgb(211, 182, 129);
 }
 td{
     text-align: center;
