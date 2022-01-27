@@ -6,6 +6,9 @@ h1{
     text-decoration: underline;
     background-color: rgb(211, 182, 129);
 }
+table{
+    width: 50%;
+}
 td{
     text-align: center;
 }
@@ -29,4 +32,9 @@ a:link{
     text-decoration: none;
 }
 
+@media screen and (max-width: 800px) {
+    .table{
+        width: 100%;
+    }
+}
 
